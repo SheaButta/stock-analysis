@@ -28,9 +28,11 @@ may suggest to sell.  The orignal VBA code completed processing in over 1 second
 ## Summary
 
 ### Refactoring Stock Analysis
-In summary, refactoring the VBA code proved to be beneficial and there was some performance gain for the 2017 and 2018 stock data.  
-Documenting the edits, using "arrays" and "for loops" in the VBA code were critical additions to this performance gain.  Although the code
-may look a bit more complex, having clear documenation will only help with future development.
+In summary, refactoring the VBA code proved to be beneficial as there was a visual performance gain for the 2017 and 2018 stock data.  
+Documenting the edits, using "arrays" and "for loops" in the VBA code were critical additions to this performance gain.  The color coding 
+of positve and negative returns also makes this effort worthwhile as it would be very appealing to senior management.  Although the code
+may look more complex since the updates, having clear documenation will only help with future development.  
+The images below illustrate the runtime improvements against the 2017 and 2018 datasets.
 
 ![2017 Performance Gain](https://github.com/SheaButta/stock-analysis/blob/main/resources/VBA_Challenge_2017.png)
 
