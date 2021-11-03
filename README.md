@@ -18,7 +18,7 @@ The two worksheets are;
 ### Analysis of 2017 Refactoring
 Using the 2017 dataset, the refactoring of the VBA code visualized all stocks, except one (1), had returns of 5% or 
 greater and rendered a performance gain just under 1 second. The orignal VBA code completed processing in over 1 second.  
-#### Performance Gain: [VBA_Challenge_2017]https://github.com/SheaButta/stock-analysis/blob/main/resources/VBA_Challenge_2017.png
+![](https://github.com/SheaButta/stock-analysis/blob/main/resources/VBA_Challenge_2017.png)
 
 ### Analysis of 2018 Refactoring
 Using the 2018 dataset, the refactoring of the VBA code visualized two (2) stocks with returns over 80%.  The other stocks had no return and
